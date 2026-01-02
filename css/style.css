@@ -379,10 +379,10 @@ h1{
 .product-item:hover .product-overlay {
     opacity: 1;
     padding-top: 0;
-}
+}***/
 
 
-/*** Team 
+ Team 
 .team-item {
     position: relative;
     text-align: center;
@@ -857,3 +857,4 @@ h1{
 
 
         
+
